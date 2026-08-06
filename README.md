@@ -5,7 +5,50 @@
 Final-year Software Engineering student passionate about building scalable web applications, cloud-native systems, and AI-powered solutions.
 
 ---
+## ☕ Featured Project
 
+### Coffee Local Brand Marketplace
+
+AI-powered marketplace designed exclusively for verified Vietnamese coffee brands.
+
+#### Business Problem
+
+Many local coffee brands struggle to prove authenticity and build trust with customers.
+
+This platform helps verify coffee brands, streamline seller onboarding, and improve customer experience through AI-powered services.
+
+#### Key Features
+
+##### Customer
+
+- AI Chatbot for product discovery
+- Product recommendations
+- Order tracking
+
+##### Seller
+
+- Local Brand Verification Workflow
+- OCR-based Citizen ID Verification (CCCD)
+- Product and Inventory Management
+
+##### Admin
+
+- AI-generated business reports
+- Seller verification management
+- Platform analytics dashboard
+
+#### Technical Highlights
+
+- Microservices Architecture
+- ASP.NET Core Backend
+- ReactJS Web Application
+- React Native Mobile Application
+- PostgreSQL Database
+- Docker Containerization
+- GitHub Actions CI/CD
+- Google Cloud Deployment
+
+---
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student
