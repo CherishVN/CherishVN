@@ -148,13 +148,13 @@ ASP.NET Core • ReactJS • React Native • PostgreSQL • Docker • Google C
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CherishVN&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CherishVN&show_icons=true&theme=default"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CherishVN&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherishVN&layout=compact&theme=default"/>
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: your-email@gmail.com
-- LinkedIn: your-linkedin-url
+- Email: qthang.30062004@gmail.com
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/nguyenhoquocthang/)
