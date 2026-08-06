@@ -148,13 +148,13 @@ ASP.NET Core • ReactJS • React Native • PostgreSQL • Docker • Google C
 
 ## 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CherishVN&show_icons=true&theme=default"/>
+<img height="180em" src="https://shion.dev"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherishVN&layout=compact&theme=default"/>
+<img height="180em" src="https://shion.dev"/>
 
 ---
 
 ## 📫 Connect With Me
 
 - Email: qthang.30062004@gmail.com
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/nguyenhoquocthang/)
+- LinkedIn: [NguyenHoQuocThang](https://www.linkedin.com/in/nguyenhoquocthang/)
