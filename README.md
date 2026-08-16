@@ -1,11 +1,11 @@
-# Hi, I'm Nguyễn Hồ Quốc Thắng 👋
+# Hi, I'm Nguyễn Hồ Quốc Thắng 
 
-### Full Stack Developer | ASP.NET Core | React | Cloud
+### Backend Developer | ASP.NET Core | Cloud
 
 Final-year Software Engineering student passionate about building scalable web applications, cloud-native systems, and AI-powered solutions.
 
 ---
-## ☕ Featured Project
+## Featured Project
 
 ### Coffee Local Brand Marketplace
 
@@ -49,18 +49,18 @@ This platform helps verify coffee brands, streamline seller onboarding, and impr
 - Google Cloud Deployment
 
 ---
-## 🚀 About Me
+##  About Me
 
-- 🎓 Software Engineering Student
-- 💻 Backend-focused Full Stack Developer
-- ☁️ Interested in Cloud, DevOps, and System Design
-- 🤖 Building AI-integrated business platforms
-- 🌱 Currently learning Golang and Distributed Systems
-- 📫 Open to Internship & Fresher Opportunities
+- Software Engineering Student
+- Backend-focused Full Stack Developer
+- Interested in Cloud, DevOps, and System Design
+- Building AI-integrated business platforms
+- Currently learning Golang and Distributed Systems
+- Open to Internship & Fresher Opportunities
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -68,12 +68,6 @@ This platform helps verify coffee brands, streamline seller onboarding, and impr
 - C#
 - Entity Framework Core
 - RESTful API
-
-### Frontend
-
-- ReactJS
-- NextJS
-- TypeScript
 
 ### Mobile
 
@@ -101,7 +95,7 @@ This platform helps verify coffee brands, streamline seller onboarding, and impr
 
 ---
 
-## 🌟 Featured Project
+##  Featured Project
 
 # Coffee Local Brand Marketplace
 
@@ -146,15 +140,7 @@ ASP.NET Core • ReactJS • React Native • PostgreSQL • Docker • Google C
 
 ---
 
-## 📈 GitHub Stats
-
-<img height="180em" src="https://shion.dev"/>
-
-<img height="180em" src="https://shion.dev"/>
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 - Email: qthang.30062004@gmail.com
 - LinkedIn: [NguyenHoQuocThang](https://www.linkedin.com/in/nguyenhoquocthang/)
